@@ -1,2 +1,2 @@
 # ibmdw
-For second IBM course
+Vir 2de IBM kursus
